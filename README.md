@@ -1,4 +1,4 @@
-# Mini Server in C
+# Exam rank 06: Mini Server in C
 
 This repository contains a simple server written in C. The server uses the `select()` system call to handle multiple clients concurrently. It's a basic implementation of a chat server where clients can send messages to each other.
 
