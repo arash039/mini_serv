@@ -7,9 +7,6 @@
 #include <netinet/in.h> //man 7 ip
 #include <string.h>
 
-//test: echo -e "hello\nthis is a test\nbye" | nc localhost xxxx
-
-
 typedef struct client {
 	int id;
 	int fd;
